@@ -6,6 +6,6 @@
 ![frame_chrome_mac_dark](https://user-images.githubusercontent.com/80502833/181757971-bd4dcef7-ce24-41cc-a8af-aa07736062c2.png)
 
 > Tool used to take web Screen shot is [https://browserframe.com/](https://browserframe.com/)
-
-<h1>Forking and Contributing</h1>
-- Website still need more update in the sense of design and more features.
+# Forking and Contributing
+-  Website still need more update in the sense of design and more features.
+-  So Contributers can add your features and will review and accept your changes.
