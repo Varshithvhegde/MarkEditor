@@ -12,3 +12,6 @@
 -  So Contributers can add your features and will review and accept your changes.
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=MarkDown&left_color=green&right_color=red"/>
+
+## Note 
+- For Improved and more featured MarkDown Editor Visit [https://varshithvhegde.github.io/Mark2](https://varshithvhegde.github.io/Mark2)
